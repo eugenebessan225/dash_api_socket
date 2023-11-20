@@ -10,7 +10,8 @@
 - [TODO](#todo)
 
 ## About The Project
-This is an API that is used by the dashboard to reload the the previous state after refreshing
+This is an API that is used by the dashboard to reload the the previous state after refreshing.
+!!!!!!!! The name in the service VM is api-etat
 
 ## Built With
 Javascript, NodeJs
